@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "yogurtlugorev",
+    "name": "Yogurtlugorev",
+    "description": "YogurtluKadayif Quest",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "YogurtluKadayif"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["pixelmon"]
+  }
+]
